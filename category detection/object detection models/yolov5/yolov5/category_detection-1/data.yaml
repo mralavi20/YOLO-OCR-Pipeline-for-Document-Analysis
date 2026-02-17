@@ -1,0 +1,12 @@
+names:
+- categories-hhcL
+nc: 1
+roboflow:
+  license: Private
+  project: category_detection
+  url: https://app.roboflow.com/mora-xorsj/category_detection/1
+  version: 1
+  workspace: mora-xorsj
+test: ../test/images
+train: category_detection-1/train/images
+val: category_detection-1/valid/images

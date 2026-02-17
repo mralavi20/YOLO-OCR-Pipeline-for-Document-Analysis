@@ -1,0 +1,12 @@
+names:
+- documents
+nc: 1
+roboflow:
+  license: Private
+  project: document_detection-fqakl
+  url: https://app.roboflow.com/mora-xorsj/document_detection-fqakl/9
+  version: 9
+  workspace: mora-xorsj
+test: ../test/images
+train: document_detection-9/train/images
+val: document_detection-9/valid/images
