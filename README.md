@@ -25,11 +25,6 @@ We trained and evaluated:
 - `category detection/`  
   Training and evaluation for category/region detection inside the localized document.
 
-## Typical workflow
-
-1. Run **Stage 1** to localize the document and obtain the document mask (and cropped document if used).
-2. Run **Stage 2** on the localized document to detect category/region bounding boxes.
-
 ## Outputs
 
 Notebooks typically produce:
