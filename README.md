@@ -1,6 +1,6 @@
 # Cascaded YOLO Pipeline for Document and Category Detection
 
-This repository provides the **code, notebooks, and trained models** used for the first two stages of our paper’s pipeline for document analysis in natural images.
+This repository provides the **code, notebooks, and trained models** used for the first two stages, document detection and category detection, of our paper’s pipeline for document analysis in natural images.
 
 ## Stages and models
 
